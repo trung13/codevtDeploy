@@ -16,7 +16,7 @@
 3. Clone repo
 
     ```bash
-    git clone -b 2.0 https://github.com/trunganh13/codevtDeploy.git && cd codevtDeploy
+    git clone https://github.com/trunganh13/codevtDeploy.git && cd codevtDeploy
     ```
 
 4. Khởi động
