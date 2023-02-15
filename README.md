@@ -3,7 +3,7 @@
 
     ```bash
     sudo apt-get update 
-    sudo apt-get install -y vim python-pip curl git
+    sudo apt-get install -y vim python3-pip curl git
     pip3 install --upgrade pip
     pip install docker-compose
     ```
