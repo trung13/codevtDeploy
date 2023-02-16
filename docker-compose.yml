@@ -59,7 +59,7 @@ services:
       # - judger_debug=1
   
   oj-backend:
-    image: trunganh13/back-newfe
+    image: trunganh13/fe-new
     container_name: oj-backend
     restart: always
     depends_on:
